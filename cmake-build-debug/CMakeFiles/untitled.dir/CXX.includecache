@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dhillii/CLionProjects/VLCPlaybackStartTime/main.cpp
+vlc/vlc.h
+-
+thread
+-
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+
